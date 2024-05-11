@@ -1,0 +1,24 @@
+
+DATA BLOCKER (TR) Proje açıklaması 
+
+>> Data paylaşımını ve hackin için kullanılan o.mg kabloların veri yollarını engelleyen bir sistemdir.
+Bu sayede takıldığı telefon yada bilgisayarda atakları test etmemesini sağlar.
+
+DATA BLOCKER (TR) Teknik donanımı 
+
+>> İki usb portundan oluşan 4 yollu ver iletişimini 2 yol iletişimine indirir bu sayede veri alışverişini engeller.
+Sadece gerilim beslemesi yapar. (ŞARJ etme eylemi)
+
+DATA BLOCKER (TR) Nerelerde kullanılır.
+
+>> Kamu dairelerinde, Ortak şarj paylaşım noktalarında gizlilik ve güvenliği sağlayan hack donanımıdır.
+
+DATA BLOCKER (TR) O.MG ve Çevrim içi dinleme, yazdırma cihazlarında etkisi
+
+>> Çevrimiçi olarak haberleşen cihazlarda veri güvenliğini korumaya yarar. Devlet dairelerinde ortak olarak kullanılan
+bilgisayar usb portlarında fiziksel olarak yada sanal olarak bulunur.
+
+FİZİKSEL BLOCKER: Teknik donanım görevi görür. Veri iletişim yollarında kanal yönetimlerini düşürür.
+
+SANAL BLOCKER: BİOS yada EK yazılımlar ile bilgisayardaki portların görevini sadece gerilim beslemesi olarak düşürür. Bu
+sayede veri ihlallerinin önüne geçmiş olunur. bu iki koruma yönteminde O.MG yada BF ataklarının önüne geçmiş olur.

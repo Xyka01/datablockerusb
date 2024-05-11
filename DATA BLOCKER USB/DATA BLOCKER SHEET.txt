@@ -1,0 +1,25 @@
+
+DATA BLOCKER DATASHEET
+
+{ // GİRİŞ USB PORT SHEET
+
+PİN 1 (VCC _ GİRİŞ GERİLİMİ = 5V)
+PİN 2 (DATA VERİ İLETİŞİM YOLU _ TX RX)
+PİN 3 (DATA VERİ İLETİŞİM YOLU _ RX TX)
+PİN 4 (GND _ GİRİŞ GERİLİMİ = "NÖTR")
+}
+
+{ // ÇIKIŞ USB PORT SHEET
+
+PİN 1 (VCC _ GİRİŞ GERİLİMİ = 5V)
+PİN 2 (GND _ GİRİŞ GERİLİMİ = "NÖTR")
+}
+
+TEKNİK BİLGİLER
+
+>> GİRİŞ USB PORT 4 KANALDAN (DATA) destekli olarak oluşmaktadır.
+>> ÇIKIŞ USB PORT 2 KANALDAN (GERİLİM) destekli olarak oluşmaktadır. 
+
+TEKNİK FARKLARI 
+
+>> Cihaz icinde bulunan 4 kanaldan ortadaki iki veri iletişim yolları kalkarak sadece sarj edecek şekilde oluşmaktadır.
